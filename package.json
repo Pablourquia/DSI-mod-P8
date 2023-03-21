@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-Pablourquia.git"
+    "url": "git+https://github.com/Pablourquia/DSI-mod-P8.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-Pablourquia/issues"
+    "url": "https://github.com/Pablourquia/DSI-mod-P8.git"
   },
-  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2223/ull-esit-inf-dsi-22-23-prct06-generics-solid-Pablourquia#readme",
+  "homepage": "https://github.com/Pablourquia/DSI-mod-P8.git#readme",
   "devDependencies": {
     "@types/chai": "^4.3.4",
     "@types/mocha": "^10.0.1",
