@@ -3,7 +3,6 @@
  * @param entrada número de entrada
  * @returns array con los n primeros números primos
  */
-
 export function CrearNumerosPrimos (entrada: number) : number[] {
   let numero = 1;
   let bool = true;
